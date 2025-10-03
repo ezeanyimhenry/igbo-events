@@ -29,7 +29,7 @@
         "date": "2024-10-10",
         "location": "Onitsha, Nnewi, and other towns",
         "imageUrl": "assets/icons/appicon.png",
-        "recurring": true
+        "recurring": false
     },
     {
         "name": "Mmanwu Festival",
@@ -54,5 +54,13 @@
         "location": "Anambra State",
         "imageUrl": "assets/icons/appicon.png",
         "recurring": true
+    },
+    {
+        "name": "Ofala Festival (Njiko na Ntachi)",
+        "description": "Celebrates the king (Obi/Igwe) and his reign in Onitcha.",
+        "date": "2025-10-17",
+        "location": "Onitsha",
+        "imageUrl": "assets/icons/appicon.png",
+        "recurring": false
     }
 ]
